@@ -1,0 +1,20 @@
+{
+  "email": "shree.kant.74.sk@gmail.com",
+  "name": "shreekant kumar",
+  "onBoarded": "YES",
+  "enrollmentDetails": [
+    {
+      "date": "2024-09-17T00:00:00.000Z",
+      "type": "Course",
+      "coupon": "DISCOUNT2024"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "type": "Workshop",
+      "coupon": "WELCOME2024"
+    }
+  ],
+  "expiresOn": "2024-10-17T00:00:00.000Z",
+  "createdAt": "2024-09-17T10:00:00.000Z",
+  "updatedAt": "2024-09-17T10:00:00.000Z"
+}
